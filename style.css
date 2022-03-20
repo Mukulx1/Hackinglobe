@@ -1,0 +1,52 @@
+*{
+    margin: 0cm;
+    padding: 0cm;
+    text-align: center;
+    background-color: black;
+    color: #20C20E;
+    font-family: monospace;
+}
+p{
+    width: 50%;
+    margin: auto;
+}
+.profile{
+    background-image: url("../../hack.jpg");
+}
+.profile-pic{
+    width: 15%;
+    border: #20C20E 10px double;
+    border-radius: 50%;
+    margin-top: 2cm;
+}
+.my-name{
+    margin: 6px;
+   padding: 6.5px;
+}
+hr{
+    border: #20C20E dashed 4px;
+    border-bottom: none;
+}
+.middle{
+    margin: 1cm auto;
+}
+.box{
+    border: #20C20E solid 2px;
+    padding: 20px;
+    margin-bottom: 1cm;
+}
+footer{
+    padding: 1cm;
+    border: white solid 4px;
+}
+#demo{
+    color: red;
+}
+button{
+    color: red;
+    padding: 0.5cm;
+}
+h3{
+    width: 50%;
+    margin: auto;
+}
